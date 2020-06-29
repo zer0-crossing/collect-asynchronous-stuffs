@@ -1,2 +1,2 @@
 # collect-asynchronous-stuffs
-from andrrod shell ro taskwr tl puthon.. I am still a noob
+#from andriod shell to taskEr to python.. I am still a noob
